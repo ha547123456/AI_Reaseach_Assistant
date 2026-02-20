@@ -1,18 +1,17 @@
 # AI Research Assistant - Semantic Search Module
 
-## Phase 1: Complete Implementation (Tasks 1-4)
 
 This project implements a complete semantic search engine with GUI for AI-powered document retrieval.
 
 ## Features
 
-###  Task 1: GUI-Based Data Selection
+### GUI-Based Data Selection
 - Upload multiple text documents (minimum 10)
 - View dataset statistics (number of documents, total size, word counts)
 - Preview document contents
 - No hardcoded datasets - fully dynamic
 
-###  Task 2: Embedding & Vector Store Configuration
+### Embedding & Vector Store Configuration
 - Select from multiple HuggingFace embedding models:
   - sentence-transformers/all-MiniLM-L6-v2 (fast, efficient)
   - sentence-transformers/all-mpnet-base-v2 (higher accuracy)
@@ -20,7 +19,7 @@ This project implements a complete semantic search engine with GUI for AI-powere
 - Choose vector database (FAISS or Chroma)
 - Automatic embedding generation and storage
 
-###  Task 3: Semantic Retrieval
+### Semantic Retrieval
 - Natural language query input
 - Adjustable top-k results (1-10)
 - Results ordered by semantic similarity
@@ -28,7 +27,7 @@ This project implements a complete semantic search engine with GUI for AI-powere
 - Document metadata display
 - Search history tracking
 
-###  Task 4: Retrieval Evaluation & Analysis
+### Retrieval Evaluation & Analysis
 - Multi-query batch evaluation
 - Performance metrics:
   - Query processing time
@@ -73,20 +72,20 @@ Or:
 python -m streamlit run app.py
 ```
 
-### 2. Upload Documents (Task 1)
+### 2. Upload Documents 
 
 1. Click "Browse files" or drag-and-drop at least 10 .txt files
 2. View dataset statistics and document previews
 3. Verify all documents loaded correctly
 
-### 3. Configure Vector Store (Task 2)
+### 3. Configure Vector Store 
 
 1. Select an embedding model from the dropdown
 2. Choose a vector database (FAISS or Chroma)
 3. Click " Generate Embeddings & Create Vector Store"
 4. Wait for processing to complete
 
-### 4. Perform Semantic Search (Task 3)
+### 4. Perform Semantic Search 
 
 1. Enter your natural language query
 2. Adjust the "Top K Results" slider
@@ -94,7 +93,7 @@ python -m streamlit run app.py
 4. Review results ordered by relevance
 5. Check similarity scores and document content
 
-### 5. Run Evaluation (Task 4)
+### 5. Run Evaluation 
 
 #### Option A: Quick Evaluation
 1. Navigate to " Run Evaluation" tab

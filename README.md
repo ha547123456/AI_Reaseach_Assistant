@@ -50,7 +50,7 @@ The embedding models will be downloaded automatically when you first run the app
 ## Project Structure
 
 ```
-Agentic_hw1/
+AI_Reaseach_Assistant/
 ├── app.py                  # Main Streamlit application (Tasks 1-4)
 ├── data_loader.py          # Document processing utilities (Task 1)
 ├── embedding_manager.py    # Embedding & vector store functions (Task 2-3)

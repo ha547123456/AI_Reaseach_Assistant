@@ -1,0 +1,9 @@
+Data Science and AI
+
+Data science is the foundation of modern AI systems. It involves extracting insights from 
+structured and unstructured data using scientific methods, algorithms, and systems. Data 
+scientists prepare and analyze data to train AI models and evaluate their performance.
+
+The data science pipeline includes data collection, cleaning, exploration, feature engineering, 
+model training, evaluation, and deployment. Good data science practices are essential for 
+building reliable and effective AI systems.

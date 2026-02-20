@@ -1,0 +1,10 @@
+Artificial Intelligence: An Introduction
+
+Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, 
+especially computer systems. These processes include learning, reasoning, and self-correction. 
+AI has become increasingly important in modern technology and is used in various applications 
+from virtual assistants to autonomous vehicles.
+
+The field of AI research was founded on the claim that human intelligence can be so precisely 
+described that a machine can be made to simulate it. This raises philosophical arguments about 
+the mind and the ethics of creating artificial beings with human-like intelligence.

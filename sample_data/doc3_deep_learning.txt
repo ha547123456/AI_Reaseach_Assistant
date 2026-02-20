@@ -1,0 +1,9 @@
+Deep Learning and Neural Networks
+
+Deep learning is a subset of machine learning that uses neural networks with multiple layers. 
+These deep neural networks are capable of learning complex patterns in large amounts of data. 
+The "deep" in deep learning refers to the number of layers in the neural network.
+
+Applications of deep learning include image recognition, natural language processing, speech 
+recognition, and many other domains. Deep learning has achieved remarkable success in tasks 
+that were previously considered extremely difficult for computers.

@@ -1,0 +1,10 @@
+Understanding Neural Networks
+
+Neural networks are computing systems inspired by biological neural networks in animal brains. 
+They consist of interconnected nodes (neurons) organized in layers. Information flows through 
+the network, with each neuron processing inputs and passing outputs to the next layer.
+
+Different architectures exist for different tasks: Convolutional Neural Networks (CNNs) for 
+image processing, Recurrent Neural Networks (RNNs) for sequential data, and Transformers for 
+natural language understanding. Training neural networks involves adjusting connection weights 
+to minimize error on training data.

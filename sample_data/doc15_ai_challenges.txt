@@ -1,0 +1,10 @@
+Current Challenges in AI
+
+Despite remarkable progress, AI faces several challenges. Data quality and availability remain 
+significant issues. Many AI systems require massive amounts of labeled data, which is expensive 
+to create. AI models can be opaque, making it difficult to understand their decision-making 
+process.
+
+Other challenges include adversarial attacks, bias and fairness concerns, energy consumption 
+of large models, and the need for specialized hardware. Addressing these challenges is crucial 
+for advancing AI technology responsibly and sustainably.

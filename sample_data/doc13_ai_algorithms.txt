@@ -1,0 +1,9 @@
+Key AI Algorithms
+
+Various algorithms power different AI applications. Classification algorithms categorize data 
+into predefined classes. Regression algorithms predict continuous values. Clustering algorithms 
+group similar data points. Decision trees make decisions through tree-like models.
+
+Ensemble methods combine multiple algorithms for better performance. Gradient boosting, random 
+forests, and neural networks are popular choices. The selection of algorithm depends on the 
+problem type, data characteristics, and performance requirements.

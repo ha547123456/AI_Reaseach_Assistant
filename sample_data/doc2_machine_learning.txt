@@ -1,0 +1,9 @@
+Machine Learning Fundamentals
+
+Machine learning is a subset of artificial intelligence that focuses on developing systems 
+that can learn and improve from experience without being explicitly programmed. It uses 
+algorithms to parse data, learn from it, and make determinations or predictions.
+
+There are three main types of machine learning: supervised learning, unsupervised learning, 
+and reinforcement learning. Each has its own use cases and benefits depending on the problem 
+being solved.

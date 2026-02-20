@@ -1,0 +1,9 @@
+Reinforcement Learning Principles
+
+Reinforcement learning is a type of machine learning where an agent learns to make decisions 
+by performing actions in an environment to maximize some notion of cumulative reward. Unlike 
+supervised learning, the agent is not told which actions to take but must discover which 
+actions yield the most reward through trial and error.
+
+Famous applications include game playing (like AlphaGo), robotics, and autonomous systems. 
+Reinforcement learning is particularly useful when the optimal solution is not known in advance.

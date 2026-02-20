@@ -1,0 +1,10 @@
+Supervised Learning Methods
+
+Supervised learning is a machine learning paradigm where the algorithm learns from labeled 
+training data. The algorithm receives input-output pairs and learns to map inputs to correct 
+outputs. Common algorithms include linear regression, logistic regression, decision trees, 
+random forests, and support vector machines.
+
+Applications include spam detection, image classification, price prediction, and medical 
+diagnosis. The quality of supervised learning models heavily depends on having sufficient 
+high-quality labeled training data.

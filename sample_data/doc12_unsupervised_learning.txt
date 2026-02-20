@@ -1,0 +1,9 @@
+Unsupervised Learning Techniques
+
+Unsupervised learning works with unlabeled data to discover hidden patterns or structures. 
+Unlike supervised learning, there are no predefined correct answers. Common techniques include 
+clustering (grouping similar items), dimensionality reduction, and anomaly detection.
+
+Applications include customer segmentation, recommendation systems, and data compression. 
+Unsupervised learning is particularly valuable when labeled data is expensive or impossible 
+to obtain.

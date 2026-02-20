@@ -50,13 +50,29 @@ The embedding models will be downloaded automatically when you first run the app
 ## Project Structure
 
 ```
-AI_Reaseach_Assistant/
-├── app.py                  # Main Streamlit application (Tasks 1-4)
-├── data_loader.py          # Document processing utilities (Task 1)
-├── embedding_manager.py    # Embedding & vector store functions (Task 2-3)
-├── evaluation.py           # Evaluation and analysis tools (Task 4)
-├── requirements.txt        # Python dependencies
-└── README.md              # This file
+ai-semantic-search/
+│
+├── 📄 README.md                    # Main documentation
+├── 📄 requirements.txt             # Python dependencies
+│
+├── 📂 src/                         # Source code
+│   ├── app.py                      # Main Streamlit application
+│   ├── data_loader.py              # Document processing
+│   ├── embedding_manager.py        # Embeddings & vector store
+│   └── evaluation.py               # Performance evaluation
+│
+├── 📂 docs/                   
+│   └── TESTING_GUIDE.txt     
+│
+├── 📂 sample_data/              
+│   ├── doc1_intro_to_ai.txt
+│   ├── doc2_machine_learning.txt
+│   ├── doc3_deep_learning.txt
+│   └── ... (15 total)
+│
+├── 📂 scripts/                     
+   └── create_sample_docs.py
+
 ```
 
 ## Usage

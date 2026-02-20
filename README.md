@@ -208,4 +208,4 @@ Built with:
 
 ## License
 
-This project is for educational purposes as part of an AI/ML course assignment.
+This project is for educational purposes.
